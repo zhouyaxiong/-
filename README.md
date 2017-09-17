@@ -1,2 +1,3 @@
 # -
-rty
+rty zabbix is different with nagios
+
